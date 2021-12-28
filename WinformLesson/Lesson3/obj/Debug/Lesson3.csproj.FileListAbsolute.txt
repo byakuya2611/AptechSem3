@@ -1,0 +1,9 @@
+D:\Coder\Visual Studio\Source\Repos\WinformLesson\Lesson3\bin\Debug\Lesson3.exe.config
+D:\Coder\Visual Studio\Source\Repos\WinformLesson\Lesson3\bin\Debug\Lesson3.exe
+D:\Coder\Visual Studio\Source\Repos\WinformLesson\Lesson3\bin\Debug\Lesson3.pdb
+D:\Coder\Visual Studio\Source\Repos\WinformLesson\Lesson3\obj\Debug\Lesson3.Form1.resources
+D:\Coder\Visual Studio\Source\Repos\WinformLesson\Lesson3\obj\Debug\Lesson3.Properties.Resources.resources
+D:\Coder\Visual Studio\Source\Repos\WinformLesson\Lesson3\obj\Debug\Lesson3.csproj.GenerateResource.cache
+D:\Coder\Visual Studio\Source\Repos\WinformLesson\Lesson3\obj\Debug\Lesson3.csproj.CoreCompileInputs.cache
+D:\Coder\Visual Studio\Source\Repos\WinformLesson\Lesson3\obj\Debug\Lesson3.exe
+D:\Coder\Visual Studio\Source\Repos\WinformLesson\Lesson3\obj\Debug\Lesson3.pdb
